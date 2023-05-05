@@ -1,0 +1,9 @@
+6-a) la differense entre la commande "git pull" et la commande "git fetch"
+  git pull permet d'envoyer les fichier de la branch local vers la marchine distant tandis que
+le git fetch permet de telecharger l'objet vers un repository
+
+  b)pour annuler une modification local non valide dans git on utilise la commande 
+
+  C)commande pôur supprimer une branche 
+
+  d)pour voir l'historique des modification pour un fichier specifique on utilise
